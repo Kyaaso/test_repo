@@ -1,0 +1,8 @@
+C:\Users\leste\Source\Repos\test_repos\TestTae\TestTae\bin\Debug\TestTae.exe.config
+C:\Users\leste\Source\Repos\test_repos\TestTae\TestTae\bin\Debug\TestTae.exe
+C:\Users\leste\Source\Repos\test_repos\TestTae\TestTae\bin\Debug\TestTae.pdb
+C:\Users\leste\Source\Repos\test_repos\TestTae\TestTae\obj\Debug\TestTae.csproj.AssemblyReference.cache
+C:\Users\leste\Source\Repos\test_repos\TestTae\TestTae\obj\Debug\TestTae.csproj.SuggestedBindingRedirects.cache
+C:\Users\leste\Source\Repos\test_repos\TestTae\TestTae\obj\Debug\TestTae.csproj.CoreCompileInputs.cache
+C:\Users\leste\Source\Repos\test_repos\TestTae\TestTae\obj\Debug\TestTae.exe
+C:\Users\leste\Source\Repos\test_repos\TestTae\TestTae\obj\Debug\TestTae.pdb
