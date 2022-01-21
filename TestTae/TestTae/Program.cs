@@ -10,7 +10,7 @@ namespace TestTae
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("tae");
+            Console.WriteLine("tae"); // fc
             Console.ReadLine();
         }
     }
